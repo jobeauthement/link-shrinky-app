@@ -466,7 +466,7 @@
         }
 
         .mt-12 {
-            margin-top: 3rem;
+            margin-top: 12rem;
         }
 
         .mr-0 {
