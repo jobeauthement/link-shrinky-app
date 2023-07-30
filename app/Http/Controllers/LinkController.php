@@ -48,7 +48,7 @@ class LinkController extends Controller
         $link->original_url = $request->original_url;
         $link->save();
 
-        return redirect("http://localhost:80/show/{$link->short_url}");
+        return redirect("https://jobe-authement.pro/show/{$link->short_url}");
     }
 
     /**
