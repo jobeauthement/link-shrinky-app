@@ -1193,10 +1193,10 @@
                         Right Click To Copy Link
                     </div>
                     <span class="relative top-0 right-0 block">
-                        <a href="http://localhost:80/{{ $short_url }}" type="submit"
+                        <a href="https://jobe-authement.pro/{{ $short_url }}" type="submit"
                             class="inline-flex items-center w-full h-12 px-8 text-base font-bold leading-6 text-white transition duration-150 ease-in-out bg-indigo-400 border border-transparent hover:bg-indigo-700 focus:outline-none active:bg-indigo-700 data-primary="
                             indigo-600">
-                            http://localhost:80/{{ $short_url }}
+                            https://jobe-authement.pro/{{ $short_url }}
                         </a>
                     </span>
                 </form>
